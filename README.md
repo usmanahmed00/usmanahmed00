@@ -5,11 +5,21 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="usmanahmed00" /> </p>
 
-- 🔭 I’m currently working on [Sapling](https://sapling.ai/)
+- 🔭 I’m currently working on [Sapling](https://www.kallidus.com/sapling-hr)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **hahmed.houston@gmail.com**
+- 📫 How to reach me **mjdeveloper07@gmail.com**
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+   <a href="mailto:mjdeveloper07@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/usman-ahmed-90b661172" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
