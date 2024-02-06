@@ -13,6 +13,20 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+<a href="https://rubyonrails.org/" target="_blank">
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+</a>
+
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+</a>
+
+<a href="https://dart.dev/" target="_blank">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</a>
+
+
 <p align="left"> <a href="https://reactjs.org/" target="_blank">
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </a>
