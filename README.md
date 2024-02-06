@@ -16,7 +16,7 @@
    <a href="mailto:mjdeveloper07@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/usman-ahmed-90b661172" target="_blank">
+   <a href="https://www.linkedin.com/in/usman-ahmed-90b661172" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
