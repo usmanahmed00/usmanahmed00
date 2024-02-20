@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sapling](https://www.kallidus.com/sapling-hr)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m **Full Stack Software Engineer**
 
 - 📫 How to reach me **mjdeveloper07@gmail.com**
 
