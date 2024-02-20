@@ -11,7 +11,7 @@ I am always on the lookout for challenging opportunities that push the boundarie
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="usmanahmed00" /> </p>
 
-- 🔭 I’m currently working on [Sapling](https://www.kallidus.com/sapling-hr)
+- 🔭 I’m currently working on [Sapling/Kallidus](https://www.kallidus.com/sapling-hr)
 
 - 🌱 I’m **Full Stack Software Engineer**
 
@@ -35,17 +35,6 @@ I am always on the lookout for challenging opportunities that push the boundarie
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </a>
 
-  <a href="https://angular.io" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
-
-  <a href="https://angular.io" target="_blank">
-    <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -53,18 +42,6 @@ I am always on the lookout for challenging opportunities that push the boundarie
 
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</a>
-
-<a href="https://www.w3.org/standards/webdesign/htmlcss" target="_blank">
-  <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="https://jquery.com/" target="_blank">
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
 
 <a href="https://nodejs.org/" target="_blank">
@@ -80,17 +57,7 @@ I am always on the lookout for challenging opportunities that push the boundarie
   <img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </a>
 
-<a href="https://kafka.apache.org/" target="_blank">
-  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-</a>
 
-<a href="https://sidekiq.org/" target="_blank">
-  <img alt="Sidekiq" src="https://img.shields.io/badge/Sidekiq-33575B?style=for-the-badge&logo=sidekiq&logoColor=white">
-</a>
-
-<a href="https://www.rabbitmq.com/" target="_blank">
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-</a>
 
 <a href="https://www.mongodb.com/" target="_blank">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -146,13 +113,3 @@ I am always on the lookout for challenging opportunities that push the boundarie
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </a>
 
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img alt="React Testing Library" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
-</a>
-
-
- </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanahmed00&show_icons=true&locale=en&layout=compact" alt="usmanahmed00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanahmed00&show_icons=true&locale=en" alt="usmanahmed00" /></p>
