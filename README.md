@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmed</h1>
 
-<h5 align="center">As a seasoned Software Engineer with a rich history of working on large-scale projects, I bring a depth of expertise and a commitment to excellence in every endeavour. My journey in software development is marked by a passion for creating robust, scalable solutions that drive business success and technological innovation.</h5>
+<h5 align="center">As a seasoned Software Engineer with a rich history of working on large-scale projects, I bring a depth of expertise and a commitment to excellence in every endeavour. My journey in software development is marked by a passion for creating robust, scalable solutions that drive business success and technological innovation.
+
+My skills span a broad spectrum of technologies and methodologies, ensuring that I can adapt to and excel in diverse environments. With a proven track record in delivering high-quality software on time and within budget, I have been instrumental in driving the success of numerous projects.
+
+Collaboration is at the heart of my approach. I believe in building strong relationships with clients and teams, ensuring that communication is clear, expectations are met, and visions are realised. My focus is not just on meeting requirements, but on exceeding them, delivering value that goes beyond the code.
+
+I am always on the lookout for challenging opportunities that push the boundaries of what is possible in software development. If you are in need of a dedicated professional who can turn your ideas into reality, feel free to reach out to me on LinkedIn. Let's create something remarkable together.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="usmanahmed00" /> </p>
